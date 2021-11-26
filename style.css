@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+
+body{
+    font-family: 'Heebo', sans-serif;
+    background-color: #EFEFEF;
+    margin: 0;
+}
+
+.container-contact{
+    height: 150px ;
+    width: 100%;
+    background-color: #F86D6D;
+    display: flex;
+}
+
+.means-of-contact{
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 24px;
+}
+
+.phone{
+    margin-right: 60px;
+    margin-left: 291px;
+}
+
+.e-mail{
+    margin-right: 60px;
+   
+}
+
+.name-status{
+    margin-top: 46px;
+}
+
+.name{
+    margin-left: 34px;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.status{
+    margin-left: 34px;
+}
+
+h1{
+    margin-bottom:24px;
+}
+.title-contact{
+    color: black;
+}
+
+/* ----------------------- */
+.direction{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.container-objective{
+    width: 600px;
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 113px;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+}
+
+.title-objective{
+    font-weight: bold;
+    color: #F86D6D;
+}
+
+
+.container-academic{
+    width: 600px;
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 113px;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+}
+
+.title-category{
+    font-weight: bold;
+    color: #F86D6D;
+}
+
+.sub-title{
+    font-weight: bold;
+}
+
+.container-profissional{
+    width: 600px;
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 670px;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+}
+.includ{
+    width: 553px;
+}
+
+.container-projects{
+    width: 600px;
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 630px;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+}
+.container-curriculo{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 100%;
+}
+.container-hardSkills{
+    width: 600px;
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 100px;
+    background-color: white;
+    border-radius: 5px;
+
+}
+.container-softSkills{
+    width: 600px;
+    margin-left: 30px;
+    height: 130px;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 24px;
+}
